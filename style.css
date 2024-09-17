@@ -1,0 +1,12 @@
+body{
+
+background-image: linear-gradient(to right, #FA874B, #FABE4B , #FAA54B);
+
+}
+
+#certo{
+
+display: flex;
+text-align: center;
+
+}
